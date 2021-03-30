@@ -1,0 +1,244 @@
+ENGL 2080|Survey of British Literature II|Explorations|Creative Expression & Engagement|3
+XCOR 3010|Animal and Human Relations|Engagements with Knowledge and Practice|Engaging the Mission|3
+PHIL 1040|The Meaning of Life|Explorations|The Examined Life|3
+HIST 1400|Worlds of Trade: Consumers and Goods in World History since 1400|Explorations|The Human Past|3
+PSCI 3360|Public Policy|Explorations|Human Behavior|3
+WMST 4999|Senior Capstone|Engagements with Knowledge and Practice|Senior Capstone|3
+THEO 2002|Prophets and Prophecy|Explorations|Faith and Society|3
+AADS 3025|African American Urban Life|Explorations|African American Heritage & Legacies|3
+WMST 2125|Women's Writing|Explorations|Creative Expression & Engagement|3
+HIST 1040|World Civilizations Since 1500|Explorations|The Human Past|3
+XCOR 1012|New Orleans Technology Innovation Bootcamp|Foundations|New Orleans Experience|3
+PSCI 2040|International Relations|Explorations|Human Behavior|3
+SOCI 4999|Senior Capstone|Engagements with Knowledge and Practice|Senior Capstone|3
+CHEM 1005|Food Chemistry|Explorations|Scientific Reasoning|3
+PHIL 2011|Ancient and Medieval Philosophy|Explorations|The Examined Life|3
+PHIL 2031|19th and 20th Century Philosophy|Explorations|The Examined Life|3
+ENGL 1020|English Composition and Literature|Foundations|Advanced Composition and Rhetoric|3
+XCOR 1012|Innovate, Create, & Make|Foundations|New Orleans Experience|3
+SOCI 2500|Reading and Writing for Sociology|Foundations|Advanced Composition and Rhetoric|3
+HIST 1041|World Civilizations Since 1500 Honors|Explorations|The Human Past|3
+HIST 1500|Women in World History|Explorations|The Human Past|3
+XCOR 1012|New Orleans and African Creolization|Foundations|New Orleans Experience|3
+PERF 2010|Performance of Literature|Explorations|Creative Expression & Engagement|3
+XCOR 1011|Satire and Social Justice|Foundations|Xavier Experience|3
+CMST 1500|Intercultural Communication|Explorations|Human Behavior|3
+PERF 4999|Senior Capstone|Engagements with Knowledge and Practice|Senior Capstone|3
+XCOR 3020|Race in the Americas|Engagements with Knowledge and Practice|Engaging Global Issues|3
+XCOR 3020|The Devil in Sacred and Secular Literature|Engagements with Knowledge and Practice|Engaging Global Issues|3
+THEO 1123|Introduction to Biblical Hebrew|Explorations|Faith and Society|3
+THEO 1100|The Christian Faith|Explorations|Faith and Society|3
+MUSH 2140|Afro-American Music II|Explorations|African American Heritage & Legacies|3
+ART 1010|Design 1A|Explorations|Creative Expression & Engagement|3
+XCOR 1011|Freedom Dreams: Social Justice in the African American Imagination|Foundations|Xavier Experience|3
+SOCI 2060|Race and Ethnic Relations|Explorations|African American Heritage & Legacies|3
+THEO 2220|Islam: Origins and Historical Impact|Explorations|Faith and Society, The Human Past|3
+MATH 1020|Basic Statistics I|Foundations|Quantitative Reasoning|3
+ART 3065|Writing About Art|Explorations|Creative Expression & Engagement|3
+AADS 3350|African American History I|Explorations|African American Heritage & Legacies|3
+XCOR 1011|Socrates and the City|Foundations|Xavier Experience|3
+CHEM 4999|Molecular Structure and Organic Synthesis Lab|Engagements with Knowledge and Practice|Senior Capstone|3
+PSYC 1010|Introductory Psychology|Explorations|Human Behavior|3
+BIOL 1030|General Biology (Non-science majors)|Explorations|Scientific Reasoning|3
+XCOR 1011|Education in Literature and Action|Foundations|Xavier Experience|3
+PHYS 1121|General Physics I|Explorations|Scientific Reasoning|3
+AADS 2000|Introduction to African American History and Culture|Explorations|African American Heritage & Legacies|3
+XCOR 3010|Race Culture and Communication|Engagements with Knowledge and Practice|Engaging the Mission|3
+HIST 2170|Survey of Medieval Europe|Explorations|The Human Past|3
+PSCI 1010|Introduction to Political Science|Explorations|Human Behavior|3
+ENGL 2095|Survey of Twentieth Century African American Literature II|Explorations|African American Heritage & Legacies|3
+PSYC 2500|Positive Psychology|Explorations|Human Behavior|3
+HIST 1031|World Civilizations to 1500 Honors|Explorations|The Human Past|3
+THEO 2250|Religions of the Ancient Near East|Explorations|Faith and Society, The Human Past|3
+AADS 2600|Africa and the World|Explorations|African American Heritage & Legacies|3
+THEO 2003|Psalms and Wisdom Literature|Explorations|Faith and Society|3
+XCOR 3020|Islam: Origins & Historical Impact|Engagements with Knowledge and Practice|Engaging Global Issues|3
+ART 1050|Introduction to Ceramics|Explorations|Creative Expression & Engagement|3
+HIST 1800|Slavery and Servitude in World History|Explorations|The Human Past|3
+XCOR 3020|Exploration in Transatlantic Blackness (Study Abroad)|Engagements with Knowledge and Practice|Engaging Global Issues|3
+THEO 2550|Environmental Issues in Christian Perspective|Explorations|Faith and Society|3
+WMST 3400|Dimensions in Women's Health|Explorations|Human Behavior|3
+ECON 2010|Principles of Micro Economics|Explorations|Human Behavior|3
+MSCM 1100|Introduction to Mass Communication|Explorations|Human Behavior|3
+CHEM 1004|Chemistry of Art|Explorations|Scientific Reasoning|3
+ENGL 3666|The Devil in Sacred and Secular Literature|Explorations|Creative Expression & Engagement|3
+CRWT 2060|Fiction Writing|Explorations|Creative Expression & Engagement|3
+XCOR 1011|Communicating Social Justice|Foundations|Xavier Experience|3
+XCOR 1011|Religion, Science, The Universe & Us|Foundations|Xavier Experience|3
+BIOL 1040|General Biology (Non-science majors)|Explorations|Scientific Reasoning|3
+AADS 2080|African American Philosophy|Explorations|African American Heritage & Legacies|3
+HIST 3350|African American History I|Explorations|African American Heritage & Legacies, The Human Past|3
+THEO 2021|The Synoptic Gospels and Acts|Explorations|Faith and Society|3
+THEO 2600|Women in Religion|Explorations|Faith and Society|3
+XCOR 3010|Revolutions in Modern History|Engagements with Knowledge and Practice|Engaging Global Issues|3
+XCOR 1012|New Orleans and The Philosophy of Pharmacy|Foundations|New Orleans Experience|3
+XCOR 1012|Race & Housing Inequality in New Orleans|Foundations|New Orleans Experience|3
+PHYS 1010|General Astronomy (plus lab)|Explorations|Scientific Reasoning|3
+ENGL 2011|Introduction to World Literature for Honors Students|Explorations|Creative Expression & Engagement, The Human Past|3
+XCOR 3020|History of Popular Culture in Africa|Engagements with Knowledge and Practice|Engaging Global Issues|3
+XCOR 3020|Design & Technology in Global Culture|Engagements with Knowledge and Practice|Engaging Global Issues|3
+XCOR 3010|Civil Rights and Civil Liberties|Engagements with Knowledge and Practice|Engaging the Mission|3
+ENGL 1000|Intensive English Composition and Rhetoric|Foundations|College Writing|3
+THEO 2500|Theological Ethics|Explorations|Faith and Society|3
+XCOR 1012|Creole Louisiana|Foundations|New Orleans Experience|3
+BIOL 4999|Genomics and Proteomics Lab|Engagements with Knowledge and Practice|Senior Capstone|3
+PHIL 4999|Senior Capstone|Engagements with Knowledge and Practice|Senior Capstone|3
+ART 2011|Black and White Photography|Explorations|Creative Expression & Engagement|3
+HIST 1030|World Civilizations to 1500|Explorations|The Human Past|3
+PHIL 1050|The Quest for Knowledge|Explorations|The Examined Life|3
+ENGL 2125|Women's Writing|Explorations|Creative Expression & Engagement|3
+XCOR 3010|Civil Rights Movement in the United States|Engagements with Knowledge and Practice|Engaging the Mission|3
+XCOR 1012|Production and Consumption of Mardi Gras|Foundations|New Orleans Experience|3
+BSAD 4999|Strategic Management|Engagements with Knowledge and Practice|Senior Capstone|3
+ART 2510|Graphic Novel and Social Justice|Explorations|Creative Expression & Engagement|3
+THEO 2023|Apocalyptic Literature and the Book of Revelation|Explorations|Faith and Society|3
+WMST 3990|Feminist Theory|Explorations|Human Behavior|3
+AADS 3385|Civil Rights Movement in the United States|Explorations|African American Heritage & Legacies|3
+XCOR 3010|Corporate Social Responsibility and Sustainability|Engagements with Knowledge and Practice|Engaging the Mission|3
+PHLT 1002|Nutrition and Health|Explorations|Human Behavior|3
+THEO 2100|Comparative Religion|Explorations|Faith and Society|3
+XCOR 3010|Aristotle in New Orleans|Engagements with Knowledge and Practice|Engaging the Mission|3
+XCOR 3020|History of Scientific Thought|Engagements with Knowledge and Practice|Engaging Global Issues|3
+XCOR 1011|The History of Hip Hop & Social Justice|Foundations|Xavier Experience|3
+PHIL 2080|African American Philosophy|Explorations|African American Heritage & Legacies, The Examined Life|3
+XCOR 3020|Women in Science, Technology, Engineering, &amp; Mathematics (STEM)|Engagements with Knowledge and Practice|Engaging Global Issues|3
+ART 4130|African Arts & Culture|Explorations|The Human Past|3
+XCOR 3020|African Politics|Engagements with Knowledge and Practice|Engaging Global Issues|3
+AADS 2010|Introduction to African American Social Sciences|Explorations|African American Heritage & Legacies|3
+MUSH 2130|Afro-American Music|Explorations|African American Heritage & Legacies|3
+THEO 3200|Theological Foundation of Social Justice|Explorations|Faith and Society|3
+ENGL 1025|Food and Literature|Foundations|Advanced Composition and Rhetoric|3
+THEO 3666|The Devil in Sacred and Secular Literature Homan/Runia|Explorations|Faith and Society|3
+PHYS 2510|Computational Science & Engineering|Explorations|Scientific Reasoning|3
+XCOR 3020|West African Folktales and their Transmission to the new world|Engagements with Knowledge and Practice|Engaging Global Issues|3
+ENGL 1023|Introduction to Literature for Honors Students|Foundations|Advanced Composition and Rhetoric|3
+XCOR 3010|Evaluating Science as a Consumer|Engagements with Knowledge and Practice|Engaging the Mission|3
+HIST 4999|Historical and Applied Perspectives in Psychology|Engagements with Knowledge and Practice|Senior Capstone|3
+THEO 4999|Senior Comprehensive|Engagements with Knowledge and Practice|Senior Capstone|3
+HIST 2600|Africa and the World|Explorations|African American Heritage & Legacies, The Human Past|3
+XCOR 3020|Water: Too much, too little, unfit for consumption|Engagements with Knowledge and Practice|Engaging Global Issues|3
+WMST 1030|Introduction to Women's Studies|Explorations|Human Behavior|3
+XCOR 1012|Perspectives on Coastal Climate, Risk, Resilience and Homeland Security|Foundations|New Orleans Experience|3
+CPSC 4800|Capstone Project I|Engagements with Knowledge and Practice|Senior Capstone|1
+XCOR 3020|Arts and the African Diaspora|Engagements with Knowledge and Practice|Engaging Global Issues|3
+BIOL 4998|Biology Capstone|Engagements with Knowledge and Practice|Senior Capstone|3
+ECON 1030|Introduction to Economics|Explorations|Human Behavior|3
+THEO 1170|Introduction to Theology|Explorations|Faith and Society|3
+CRWT 2050|Poetry Workshop|Explorations|Creative Expression & Engagement|3
+PERF 2035|Performance of Everyday Life|Explorations|Creative Expression & Engagement|3
+PSCI 4999|Senior Capstone|Engagements with Knowledge and Practice|Senior Capstone|3
+XCOR 3020|African Women's Textile Production|Engagements with Knowledge and Practice|Engaging Global Issues|3
+PHIL 2270|Philosophy of Religion|Explorations|The Examined Life|3
+ENGL 3160|Survey of American Literature I|Explorations|Creative Expression & Engagement|3
+CHEM 1010|Chemistry I|Explorations|Scientific Reasoning|3
+XCOR 1011|Nat Turner and the Theology of Slave Rebellion|Foundations|Xavier Experience|3
+ECON 2020|Principles of Macro Economics|Explorations|Human Behavior|3
+XCOR 3010|Caribbean Roots: Food, Music and Festival Culture in New Orleans and the Circum Caribbean|Engagements with Knowledge and Practice|Engaging the Mission|3
+ENGL 2085|Survey of American Literature I|Explorations|African American Heritage & Legacies|3
+XCOR 1012|The City as Text|Foundations|New Orleans Experience|3
+ENGL 2010|Introduction to World Literature I|Explorations|Creative Expression & Engagement, The Human Past|3
+THEO 2070|Introduction to Bioethics|Explorations|Faith and Society|3
+ART 2020|Introduction to Graphic Design & Advertising|Explorations|Creative Expression & Engagement|3
+ENGL 2020|Introduction to World Literature II|Explorations|Creative Expression & Engagement, The Human Past|3
+AADS 2140|Afro-American Music II|Explorations|African American Heritage & Legacies|3
+XCOR 3010|Law, Politics, and Society|Engagements with Knowledge and Practice|Engaging the Mission|3
+MATH 1015|College Algebra for Elementary Education Majors|Foundations|Quantitative Reasoning|3
+MUSH 2000|Music Appreciation|Explorations|Creative Expression & Engagement|3
+XCOR 1012|Performing New Orleans|Foundations|New Orleans Experience|3
+SOCI 3010|Sociology of Education|Explorations|Human Behavior|3
+XCOR 1012|Carnival in New Orleans: History, Theory and Practice|Foundations|New Orleans Experience|3
+XCOR 3020|Transnational Feminist Perspective|Engagements with Knowledge and Practice|Engaging Global Issues|3
+XCOR 1012|Historical and Cultural Influences on Medical Practices in New Orleans|Foundations|New Orleans Experience|3
+IPSC 2010|Integrated Physical Science|Explorations|Scientific Reasoning|3
+XCOR 1012|Homelessness in New Orleans|Foundations|New Orleans Experience|3
+PHIL 2021|Modern Philosophy|Explorations|The Examined Life|3
+BIOL 1050|Environmental Biology|Explorations|Scientific Reasoning|3
+ENGL 3050|Shakespeare in Adaptation|Explorations|Creative Expression & Engagement|3
+HIST 2415|Introduction to Historical Research and Writing|Foundations|Advanced Composition and Rhetoric|3
+MATH 1010|Principles of Modern Mathematics|Foundations|Quantitative Reasoning|3
+PHED 4999|Senior Capstone|Engagements with Knowledge and Practice|Senior Capstone|3
+XCOR 1012|Seeing New Orleans|Foundations|New Orleans Experience|3
+XCOR 3010|Ethics of Genetic Engineering|Engagements with Knowledge and Practice|Engaging the Mission|3
+HIST 2250|Religions of the Ancient Near East|Explorations|The Human Past|3
+SOCI 1015|Popular Culture and Society|Explorations|Human Behavior|3
+MATH 4999|Senior Thesis|Engagements with Knowledge and Practice|Senior Capstone|3
+ART 1090|Art Appreciation|Explorations|Creative Expression & Engagement|3
+XCOR 3010|The Ideal Society|Engagements with Knowledge and Practice|Engaging the Mission|3
+MATH 1030|Pre-Calculus|Foundations|Quantitative Reasoning|3
+CRWT 1050|Introduction to Creative Writing|Explorations|Creative Expression & Engagement|3
+MSCM 2400|Social Media|Explorations|Human Behavior|3
+PHIL 2260|Philosophy of Art|Explorations|Creative Expression & Engagement, The Examined Life|3
+XCOR 1011|Food Matters|Foundations|Xavier Experience|3
+HIST 3385|Civil Rights Movement in the United States|Explorations|African American Heritage & Legacies|3
+MSCM 2540|Storytelling through Digital Editing|Explorations|Creative Expression & Engagement|3
+THEO 1122|Introduction to Biblical Hebrew|Explorations|Faith and Society|3
+SOCI 2050|Sociology of the Family|Explorations|Human Behavior|3
+THEO 2900|Christianity and Racial Capitalism|Explorations|Faith and Society|3
+ENGL 1010|English Composition and Rhetoric|Foundations|College Writing|3
+PSCI 2050|Introduction to Public Policy and Administration|Explorations|Human Behavior|3
+HIST 1810|Human Rights in Global History|Explorations|The Human Past|3
+ART 1030|Drawing 1|Explorations|Creative Expression & Engagement|3
+THEO 2001|The Torah of Israel|Explorations|Faith and Society|3
+MATH 1070|Introductory Calculus|Foundations|Quantitative Reasoning|3
+XCOR 3020|Global Social Change|Engagements with Knowledge and Practice|Engaging Global Issues|3
+PHYS 2010|General Physics I (plus lab)|Explorations|Scientific Reasoning|3
+PSCI 1020|American Government|Explorations|Human Behavior|3
+CHEM 4998|Synthesis Lab|Engagements with Knowledge and Practice|Senior Capstone|3
+SOCI 2010|Social Problems|Explorations|Human Behavior|3
+CRWT 3065|Writing About Art|Explorations|Creative Expression & Engagement|3
+XCOR 1012|Cities of the Dead|Foundations|New Orleans Experience|3
+PHIL 1060|Law, Liberty and Philosophy|Explorations|The Examined Life|3
+PSYC 4999|Senior Capstone|Engagements with Knowledge and Practice|Senior Capstone|3
+ENGL 2510|Graphic Novel and Social Justice|Explorations|Creative Expression & Engagement|3
+XCOR 3020|Afro Latin American Oral Traditions|Engagements with Knowledge and Practice|Engaging Global Issues|3
+XCOR 1012|Learn French in New Orleans|Foundations|New Orleans Experience|3
+ENGL 4999|Senior Recital|Engagements with Knowledge and Practice|Senior Capstone|3
+MUSH 1080|Introduction to Musiking Around the World|Explorations|Creative Expression & Engagement|3
+XCOR 1012|New Orleans Literature|Foundations|New Orleans Experience|3
+CRWT 2070|Creative Nonfiction|Explorations|Creative Expression & Engagement|3
+XCOR 3010|The Theology of Flannery O'Connor|Engagements with Knowledge and Practice|Engaging the Mission|3
+XCOR 1012|Environmental Justice in New Orleans and Beyond|Foundations|New Orleans Experience|3
+XCOR 1000|College Experience|Foundations|College Experience|1
+SOCI 1010|Introduction to Sociology|Explorations|Human Behavior|3
+AADS 2130|Afro-American Music|Explorations|African American Heritage & Legacies|3
+XCOR 1012|The New Orleans Book Club|Foundations|New Orleans Experience|3
+PSCI 3400|Urban Politics|Explorations|Human Behavior|3
+PHYS 2060|Physics of Music (plus lab)|Explorations|Scientific Reasoning|3
+MUSH 4999|Senior Capstone|Engagements with Knowledge and Practice|Senior Capstone|3
+XCOR 3010|Developing Community Programs through the Arts|Engagements with Knowledge and Practice|Engaging the Mission|3
+MSCM 2580|Film Appreciation|Explorations|Creative Expression & Engagement|3
+ENGL 3170|Survey of American Literature II|Explorations|Creative Expression & Engagement|3
+XCOR 3010|Ethics at the End of Life|Engagements with Knowledge and Practice|Engaging the Mission|3
+XCOR 3020|Population and Society|Engagements with Knowledge and Practice|Engaging Global Issues|3
+HIST 2060|Ethnicity & Immigration in US History|Explorations|The Human Past|3
+THEO 1120|Introduction to Biblical Studies|Explorations|Faith and Society|3
+MSCM 4999|Senior Capstone|Engagements with Knowledge and Practice|Senior Capstone|3
+SOCI 3025|African American Urban Life|Explorations|African American Heritage & Legacies|3
+PHYS 4999|Senior Capstone|Engagements with Knowledge and Practice|Senior Capstone|3
+PHYS 1530|How Things Work|Explorations|Scientific Reasoning|3
+PHLT 1001|Introduction to Public Health|Explorations|Human Behavior|3
+XCOR 3020|Food Security|Engagements with Knowledge and Practice|Engaging Global Issues|3
+XCOR 3020|Politics of Developing Nations|Engagements with Knowledge and Practice|Engaging Global Issues|3
+ENGL 2070|Survey of British Literature I|Explorations|Creative Expression & Engagement|3
+XCOR 1012|The Vietnamese Diaspora in Louisiana|Foundations|New Orleans Experience|3
+XCOR 1012|Cultures & Trade in New Orleans|Foundations|New Orleans Experience|3
+HIST 2220|Islam: Origins and Historical Impact|Explorations|The Human Past|3
+XCOR 3020|Environmental Issues in Christian Perspective|Engagements with Knowledge and Practice|Engaging Global Issues|3
+XCOR 3010|Dystopias: Real and Imagined|Engagements with Knowledge and Practice|Engaging the Mission|3
+XCOR 1011|Linkages of Moral Philosophy to Business Decision Making|Foundations|Xavier Experience|3
+ART 1060|Introduction to Painting|Explorations|Creative Expression & Engagement|3
+PSCI 2240|Politics of Gender and Sexuality|Explorations|Human Behavior|3
+XCOR 3020|African Arts & Culture|Engagements with Knowledge and Practice|Engaging Global Issues|3
+XCOR 3020|Latin America and the Caribbean|Engagements with Knowledge and Practice|Engaging Global Issues|3
+THEO 1130|Introduction to Black Catholic Theology|Explorations|Faith and Society|3
+ENGL 3040|Shakespeare at the Globe|Explorations|Creative Expression & Engagement|3
+AADS 2060|Race and Ethnic Relations|Explorations|African American Heritage & Legacies|3
+XCOR 3010|Constitutional Law|Engagements with Knowledge and Practice|Engaging the Mission|3
+AADS 4999|Colloquium II|Engagements with Knowledge and Practice|Senior Capstone|3
+CPSC 4805|Capstone Project II|Engagements with Knowledge and Practice|Senior Capstone|2
+XCOR 3020|The Biosphere: Life, the Universe, Everything|Engagements with Knowledge and Practice|Engaging Global Issues|3
+XCOR 1012|World Religions in New Orleans|Foundations|New Orleans Experience|3
+BIOL 1230|General Biology I|Explorations|Scientific Reasoning|3
+STAT 2010|Basic Statistics I|Foundations|Quantitative Reasoning|3
+XCOR 3020|Blockchain, Crypto Currency and Society|Engagements with Knowledge and Practice|Engaging Global Issues|3
+THEO 2022|Letters of Paul|Explorations|Faith and Society|3
