@@ -68,7 +68,21 @@ public class Lab0331 {
 
         // TODO: #11 (15 points) - Create an array to store the first 5 titles from 'courses.txt'
         // and then output the array in reverse order.
+        String[] titles = new String[5];
+        try (Scanner sc = new Scanner(new File("courses.txt"))) {
+            for (int ndx = 0; ndx < 5; ndx++) {
+                String line = sc.nextLine();
+                String[] parts = line.split("\\|");
+                titles[ndx] = parts[1];
+            }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
 
+        System.out.println("\nThe titles of the first 5 courses:");
+        for (int i = 4; i >= 0; i--) {
+            System.out.printf("\t %d \t %s\n", i, titles[i]);
+        }
 
         
 
