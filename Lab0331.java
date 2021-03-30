@@ -1,11 +1,15 @@
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
+import java.util.List;
 
 public class Lab0331 {
 
+    static Scanner keyb = new Scanner(System.in);
+    static Random rand = new Random();
 
     public static void main(String[] args) {
 
@@ -101,7 +105,8 @@ public class Lab0331 {
         // until {numHours} unique courses (with at most 6 courses and no more than 21 hours) are
         // selected.  This function outputs the titles of the schedule in reverse order and also returns the
         // number of titles that were output.
-
+        int numTitles = createUniqueSchedule();
+        System.out.println(numTitles + " titles were selected\n");
 
 
 
@@ -118,4 +123,45 @@ public class Lab0331 {
 
     // WRITE YOUR FUNCTION DEFINITIONS HERE!
 
+    // TODO #21
+    static int createUniqueSchedule() {
+        int numCourses = 0;
+        ArrayList<String> selectedCourses = new ArrayList<>();
+        System.out.print("\nWhat is your filename? ");
+        String filename = keyb.nextLine();
+
+        int numHours = 0;
+        System.out.print("How many credit hours? ");
+        while (numHours == 0) {
+            numHours = Integer.parseInt(keyb.nextLine());
+            if (numHours > 21) {
+                numHours = 0;
+                System.out.print("Too many hours, try again: ");
+            }
+        }
+
+        try (Scanner sc = new Scanner(new File(filename))) {
+            int totalHours = 0;
+            while (totalHours < numHours && numCourses < 6) {
+                String line = sc.nextLine();
+                String[] parts = line.split("\\|");
+                String course = parts[0];
+                String title = parts[1];
+                int crseHours = Integer.parseInt(parts[4]);
+                if (!selectedCourses.contains(course)) {
+                    numCourses++;
+                    selectedCourses.add(title);
+                    totalHours += crseHours;
+                }
+            }
+
+            System.out.println("Created Schedule:");
+            for (int i = selectedCourses.size() - 1; i >= 0; i--) {
+                System.out.printf("  %s\n", selectedCourses.get(i));
+            }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        return numCourses;
+    }
 }
