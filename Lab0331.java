@@ -89,7 +89,10 @@ public class Lab0331 {
         // TODO: #12 (15 points) - Now we have two arrays of length 5, one array holds the areas and
         // the other array holds the titles.  Output a table of this data using the format
         // {index} {tab} {title} {tab} {area}
-    
+        System.out.println("\nFirst 5 courses:");
+        for (int i = 0; i < 5; i++) {
+            System.out.printf("%d \t %s \t %s\n", i, titles[i], areas[i]);
+        }
         
 
 
