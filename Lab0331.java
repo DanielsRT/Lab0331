@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
-import java.util.List;
 
 public class Lab0331 {
 
@@ -105,8 +104,10 @@ public class Lab0331 {
         // until {numHours} unique courses (with at most 6 courses and no more than 21 hours) are
         // selected.  This function outputs the titles of the schedule in reverse order and also returns the
         // number of titles that were output.
-        int numTitles = createUniqueSchedule();
-        System.out.println(numTitles + " titles were selected\n");
+        System.out.print("\nWhat is your filename? ");
+        String filename = keyb.nextLine();
+        int numScheduleTitles = createUniqueSchedule(filename);
+        System.out.println(numScheduleTitles + " titles were selected\n");
 
 
 
@@ -115,8 +116,17 @@ public class Lab0331 {
         // parameters to this function are the (String) filename, the {maxNumTitles}, and
         // {numChars}. After creating this array, your function should return the (up to)
         // {numTitles} titles.
+        System.out.print("What is the max number of titles? ");
+        int maxNumTitles = Integer.parseInt(keyb.nextLine());
 
-        
+        System.out.print("Shorter than how many characters? ");
+        int numChars = Integer.parseInt(keyb.nextLine());
+
+        String[] selectedTitles = storeTitlesShorterThanLength(filename, maxNumTitles, numChars);
+        System.out.println("Titles That Meet Criteria:");
+        for (int i = 0; i < selectedTitles.length; i++) {
+            System.out.printf("  %s\n", selectedTitles[i]);
+        }
 
     }
 
@@ -124,12 +134,9 @@ public class Lab0331 {
     // WRITE YOUR FUNCTION DEFINITIONS HERE!
 
     // TODO #21
-    static int createUniqueSchedule() {
+    static int createUniqueSchedule(String filename) {
         int numCourses = 0;
         ArrayList<String> selectedCourses = new ArrayList<>();
-        System.out.print("\nWhat is your filename? ");
-        String filename = keyb.nextLine();
-
         int numHours = 0;
         System.out.print("How many credit hours? ");
         while (numHours == 0) {
@@ -163,5 +170,27 @@ public class Lab0331 {
             e.printStackTrace();
         }
         return numCourses;
+    }
+
+    // TODO #22
+    static String[] storeTitlesShorterThanLength(String filename, int maxNumTitles, int numChars) {
+        int numTitles = 0;
+        String[] selectedTitles = new String[maxNumTitles];
+        
+        try (Scanner sc = new Scanner(new File(filename))) {
+            while (numTitles < maxNumTitles) {
+                String line = sc.nextLine();
+                String[] parts = line.split("\\|");
+                String title = parts[1];
+
+                if (title.length() < numChars) {
+                    selectedTitles[numTitles] = title;
+                    numTitles++;
+                }
+            }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        return selectedTitles;
     }
 }
