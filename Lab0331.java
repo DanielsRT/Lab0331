@@ -118,9 +118,17 @@ public class Lab0331 {
         // {numTitles} titles.
         System.out.print("What is the max number of titles? ");
         int maxNumTitles = Integer.parseInt(keyb.nextLine());
-
+        
+        int shortestLength = findShortestLength(filename);
         System.out.print("Shorter than how many characters? ");
-        int numChars = Integer.parseInt(keyb.nextLine());
+        int numChars = 0;
+        while (numChars == 0) {
+            numChars = keyb.nextInt();
+            if (numChars < shortestLength) {
+                numChars = 0;
+                System.out.print("No title long enough, try again: ");
+            }
+        }
 
         String[] selectedTitles = storeTitlesShorterThanLength(filename, maxNumTitles, numChars);
         System.out.println("Titles That Meet Criteria:");
@@ -149,17 +157,20 @@ public class Lab0331 {
 
         try (Scanner sc = new Scanner(new File(filename))) {
             int totalHours = 0;
-            while (totalHours < numHours && numCourses < 6) {
+            while (numCourses < 6 && totalHours < numHours) {
                 String line = sc.nextLine();
                 String[] parts = line.split("\\|");
                 String course = parts[0];
                 String title = parts[1];
                 int crseHours = Integer.parseInt(parts[4]);
-                if (!selectedCourses.contains(course)) {
+                totalHours += crseHours;
+                if (totalHours > numHours) {
+                    totalHours -= crseHours;
+                } else {
                     numCourses++;
                     selectedCourses.add(title);
-                    totalHours += crseHours;
                 }
+                
             }
 
             System.out.println("Created Schedule:");
@@ -172,18 +183,25 @@ public class Lab0331 {
         return numCourses;
     }
 
+    
+    
+    // Robert Bonus TODO (+10):  Create a user-defined function that solves TODO #21
+    // but now the courses must be randomly selected rather than having the courses selected sequentially from the file.
+    
+    
+    
     // TODO #22
     static String[] storeTitlesShorterThanLength(String filename, int maxNumTitles, int numChars) {
         int numTitles = 0;
         String[] selectedTitles = new String[maxNumTitles];
         
         try (Scanner sc = new Scanner(new File(filename))) {
-            while (numTitles < maxNumTitles) {
+            while (sc.hasNextLine()) {
                 String line = sc.nextLine();
                 String[] parts = line.split("\\|");
                 String title = parts[1];
 
-                if (title.length() < numChars) {
+                if (title.length() <= numChars && numTitles < maxNumTitles) {
                     selectedTitles[numTitles] = title;
                     numTitles++;
                 }
@@ -192,5 +210,24 @@ public class Lab0331 {
             e.printStackTrace();
         }
         return selectedTitles;
+    }
+    
+    static int findShortestLength(String filename) {
+        int shortestLength = 50;
+        try (Scanner sc = new Scanner(new File(filename))) {
+            while (sc.hasNextLine()) {
+                String line = sc.nextLine();
+                String[] parts = line.split("\\|");
+                String title = parts[1];
+                int titleLength = title.length();
+                if (titleLength < shortestLength) {
+                   shortestLength = titleLength; 
+                }
+                
+            }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        return shortestLength + 1;
     }
 }
